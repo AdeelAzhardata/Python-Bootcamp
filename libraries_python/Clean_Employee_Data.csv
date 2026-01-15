@@ -1,0 +1,11 @@
+,EmployeeID,Name,Department,Age,Experience,Salary,PerformanceScore,Salary_Level
+0,101,Ali,IT,25.0,2,45000.0,78.0,Normal
+1,102,Sara,HR,30.0,5,60000.0,85.0,Normal
+2,103,Ahmed,IT,28.0,4,44333.333333333336,88.0,Normal
+3,104,Ayesha,Finance,35.0,10,90000.0,92.0,High
+4,105,Usman,HR,29.77777777777778,3,52000.0,70.0,Normal
+5,106,Zain,IT,26.0,2,48000.0,81.66666666666667,Normal
+6,107,Maria,Finance,40.0,15,120000.0,95.0,High
+7,108,Hassan,Marketing,29.0,6,65000.0,80.0,Normal
+8,109,Noor,Marketing,31.0,8,72000.0,82.0,High
+9,110,Omer,IT,24.0,1,40000.0,65.0,Normal

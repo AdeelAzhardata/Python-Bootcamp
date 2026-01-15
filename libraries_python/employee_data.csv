@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Experience,Salary,PerformanceScore
+101,Ali,IT,25,2,45000,78
+102,Sara,HR,30,5,60000,85
+103,Ahmed,IT,28,4,,88
+104,Ayesha,Finance,35,10,90000,92
+105,Usman,HR,,3,52000,70
+106,Zain,IT,26,2,48000,
+107,Maria,Finance,40,15,120000,95
+108,Hassan,Marketing,29,6,65000,80
+109,Noor,Marketing,31,8,72000,82
+110,Omer,IT,24,1,40000,65

@@ -1,0 +1,101 @@
+ID,Age,Income,Education,City,YearsExperience,CreditScore,OnlineVisits,AnnualSpend
+1,22,36000,High School,New York,0,650,6,2300
+2,23,38000,High School,Houston,1,655,7,2450
+3,24,39000,High School,Houston,1,660,8,2600
+4,25,42000,Bachelors,New York,2,690,12,3200
+5,26,43000,Bachelors,Houston,2,685,11,3300
+6,27,44000,Bachelors,Houston,3,690,12,3400
+7,28,47000,Bachelors,Los Angeles,4,700,14,3800
+8,29,46000,Bachelors,Los Angeles,4,700,14,3900
+9,30,50000,Bachelors,New York,5,705,15,4400
+10,31,52000,Bachelors,New York,6,710,16,4700
+11,32,54000,Bachelors,Chicago,7,720,17,4900
+12,33,56000,Bachelors,Chicago,7,715,17,5000
+13,34,58000,Masters,Chicago,8,720,18,5400
+14,35,60000,Bachelors,Houston,9,725,18,5500
+15,36,61000,Bachelors,Chicago,10,730,19,5700
+16,37,63000,Bachelors,Chicago,13,735,21,6100
+17,38,62000,Bachelors,New York,13,735,21,6100
+18,39,64000,Bachelors,Houston,14,735,21,6000
+19,40,68000,Masters,Los Angeles,15,745,22,6500
+20,41,69000,Masters,Chicago,16,750,23,6800
+21,42,70000,Masters,Los Angeles,16,750,23,6900
+22,43,72000,Masters,Houston,17,755,24,7200
+23,44,73000,Masters,Los Angeles,18,760,24,7500
+24,45,76000,PhD,San Francisco,20,780,25,8200
+25,46,79000,Masters,Chicago,21,770,26,8400
+26,47,82000,Bachelors,San Francisco,22,790,27,8800
+27,48,83000,Masters,New York,23,785,27,9000
+28,49,85000,Masters,New York,24,795,28,9300
+29,50,88000,PhD,San Francisco,25,800,29,9700
+30,51,89000,Masters,Los Angeles,26,805,30,10100
+31,52,91000,Masters,New York,28,810,30,10200
+32,53,93000,PhD,San Francisco,29,825,32,11200
+33,54,92000,PhD,San Francisco,30,820,31,10800
+34,55,95000,PhD,San Francisco,32,835,34,12000
+35,56,96000,PhD,San Francisco,33,838,34,12200
+36,57,97000,PhD,San Francisco,34,840,35,12500
+37,58,98000,PhD,San Francisco,35,830,33,11500
+38,59,100000,PhD,San Francisco,36,845,35,12800
+39,60,105000,PhD,San Francisco,38,845,35,13000
+40,61,108000,PhD,San Francisco,39,850,36,13800
+41,62,110000,PhD,San Francisco,40,860,36,14500
+42,35,,Bachelors,Chicago,9,725,18,5600
+43,38,62000,Bachelors,New York,,735,21,6100
+44,41,69000,Masters,Chicago,16,,23,6800
+45,29,46000,Bachelors,Los Angeles,4,,14,3800
+46,46,,Masters,Los Angeles,21,775,26,8600
+47,33,56000,Bachelors,Chicago,,715,17,5000
+48,52,,Masters,New York,28,810,30,10200
+49,27,44000,Bachelors,Houston,3,690,12,3400
+50,34,59000,Masters,Los Angeles,8,725,18,5500
+51,39,65000,Masters,New York,14,740,21,6200
+52,45,77000,Masters,Chicago,20,765,25,8100
+53,48,80000,Masters,Los Angeles,21,775,26,8600
+54,50,88000,PhD,San Francisco,25,800,29,9700
+55,55,95000,PhD,San Francisco,32,835,34,12000
+56,28,47000,Bachelors,Houston,4,700,14,3900
+57,36,61000,Bachelors,Chicago,10,730,19,5700
+58,42,70000,Masters,Los Angeles,16,750,23,6900
+59,47,82000,Bachelors,San Francisco,22,790,27,8800
+60,31,52000,Bachelors,New York,6,710,16,4700
+61,24,40000,High School,New York,1,665,9,2600
+62,22,36000,High School,New York,0,650,6,2300
+63,63,112000,PhD,San Francisco,41,865,37,15000
+64,64,115000,PhD,San Francisco,42,870,38,15500
+65,65,118000,PhD,San Francisco,43,875,39,16000
+66,66,120000,PhD,San Francisco,44,880,40,16500
+67,34,58000,Masters,Chicago,8,720,18,5400
+68,37,64000,Bachelors,Houston,13,735,21,6000
+69,41,70000,Masters,New York,16,750,23,6900
+70,45,78000,Masters,Los Angeles,20,770,25,8300
+71,49,86000,Masters,Chicago,24,795,28,9400
+72,53,92000,PhD,San Francisco,29,820,31,11000
+73,57,98000,PhD,San Francisco,34,840,35,12500
+74,61,108000,PhD,San Francisco,39,850,36,13800
+75,28,48000,Bachelors,Houston,4,705,14,4000
+76,32,55000,Bachelors,Chicago,7,720,17,4950
+77,36,62000,Bachelors,Chicago,10,730,19,5750
+78,40,68000,Masters,Los Angeles,15,745,22,6550
+79,44,74000,Masters,Los Angeles,18,760,24,7550
+80,48,83000,Masters,New York,23,785,27,9050
+81,52,90000,Masters,New York,28,810,30,10300
+82,56,96000,PhD,San Francisco,33,835,34,12250
+83,60,105000,PhD,San Francisco,38,845,35,13100
+84,35,60000,Bachelors,Houston,9,725,18,5500
+85,39,65000,Bachelors,Houston,14,735,21,6050
+86,43,72000,Masters,Houston,17,755,24,7250
+87,47,82000,Bachelors,San Francisco,22,790,27,8850
+88,51,89000,Masters,Los Angeles,26,805,30,10150
+89,55,95000,PhD,San Francisco,32,835,34,12100
+90,59,100000,PhD,San Francisco,36,845,35,12900
+91,26,43000,Bachelors,Houston,2,685,11,3300
+92,30,50000,Bachelors,New York,5,705,15,4400
+93,34,58000,Masters,Chicago,8,720,18,5400
+94,38,62000,Bachelors,New York,13,735,21,6100
+95,42,70000,Masters,Los Angeles,16,750,23,6900
+96,46,79000,Masters,Chicago,21,770,26,8400
+97,50,88000,PhD,San Francisco,25,800,29,9700
+98,54,92000,PhD,San Francisco,30,820,31,10800
+99,58,98000,PhD,San Francisco,35,830,33,11500
+100,62,110000,PhD,San Francisco,40,860,36,14500
